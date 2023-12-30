@@ -8,7 +8,7 @@ import NewJeans from "./assets/newjeans.png";
 
 export default function App() {
   const [greetingMessage, setGreetingMessage] = useState([
-    "Happy New Year and Merry Christmas 2024!!",
+    "Happy New Year and Merry Christmas 2023!!",
   ]);
 
   const backgroundInitialization = async (engine) => {
